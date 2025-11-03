@@ -34,7 +34,7 @@ Built for high-speed parallel file transfers, live worker telemetry, and optiona
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="docs/screenshot_ui.png" width="800">
+<img width="1169" height="863" alt="image" src="https://github.com/user-attachments/assets/c871c12e-442c-42d1-88cf-aa8601839bac" />
 </p>
 
 ---
